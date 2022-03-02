@@ -1,0 +1,23 @@
+{
+  "name": "static-bag",
+  "version": "1.0.0",
+  "description": "Starter Code for Week 5 Day 5 Activity",
+  "main": "Bag.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/static-bag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/static-bag/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/static-bag#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
